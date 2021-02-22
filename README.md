@@ -4,10 +4,10 @@ This is a sample app to learn the concepts of argument input and the filesystem 
 
 #### Dependencies
 
- - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/npm.png"></code> [Yargs](https://www.npmjs.com/package/yargs)
+ - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code> [Yargs](https://www.npmjs.com/package/yargs)
 
 
-####App commands for use
+#### App commands for use
 
 ```
 Options:
